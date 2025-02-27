@@ -80,7 +80,7 @@ https://www.develofarm.site
 
 |팀원|역할|맡은 페이지|MBTI|깃허브 주소|블로그 주소|
 |------|---|---|---|---|---|
-|김은비|**리더**|프로젝트&인재풀 페이지, 헤더&푸터 레이아웃|ISTP|https://github.com/eunbime|https://velog.io/@eunbi/posts|
+|김은비|**리더**|프로젝트&인재풀 페이지, 전체 레이아웃 구현|ISTP|https://github.com/eunbime|https://velog.io/@eunbi/posts|
 |김주희|**부리더**|프로젝트 작성&수정 페이지|ISFP|https://github.com/jjuhee|https://developer.happymunzi.com|
 |진민용|팀원|로그인&메인 페이지, 검색 페이지, 헤더 레이아웃|ENFJ|https://github.com/boyaneck|https://velog.io/@boyaneck/posts|
 |정효창|팀원|마이 페이지|E같은 ISFP|https://github.com/HyoChang5147|https://velog.io/@jhc729/posts|
